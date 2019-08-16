@@ -33,7 +33,11 @@
         });
       /* Loader Code End */
   
-   
+//    $('#downloadCv').click(function(e) {
+//     e.preventDefault();  //stop the browser from following
+//     window.location.href = 'uploads/Resume.pdf';
+// });
+
     /*
     |====================
     | Mobile NAv trigger
