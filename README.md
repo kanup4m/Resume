@@ -1,2 +1,2 @@
 # Resume
-Portfolio
+A simple portfolio made with HTML,CSS & Javascript.
