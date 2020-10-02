@@ -1,7 +1,7 @@
 # Portfolio
 My personal Portfolio website made with HTML,CSS & Javascript.
 # Portfolio Link
-  - [Portfolio](https://kanup4m.github.io/Resume/)
+  - [https://kanup4m.github.io/Resume/](https://kanup4m.github.io/Resume/)
 # About me
 Hello, My name is Anupam Kushwaha
 # My Technical Skills
