@@ -1,6 +1,4 @@
 # Resume
-A simple portfolio made with HTML,CSS & Javascript.
-
 # Portfolio Website (Link)
 Managing the portfolio site was always a pain if just frontend was used. Even for minute changes to be made, whole website code was to be formatted. I have used django for CMS (Content Management Service) to ease the pain of editing whole code for any changes.
 
